@@ -73,7 +73,7 @@
             return res.json().catch(function(){ return {}; });
           })
           .then(function () {
-            statusEl.textContent = 'Thanks — we'll be in touch shortly.';
+            statusEl.textContent = 'Thanks — we\'ll be in touch shortly.';
             statusEl.classList.add('ok');
             form.reset();
           })
