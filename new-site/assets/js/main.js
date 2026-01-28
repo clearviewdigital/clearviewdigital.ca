@@ -1,5 +1,5 @@
 /* ==========================================================================
-   ClearView Digital — Main JS
+   Clearview Digital — Main JS
    --------------------------------------------------------------------------
    Contents:
    1) Mobile nav toggle (accessible button)

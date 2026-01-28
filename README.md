@@ -1,4 +1,4 @@
-# ClearView Digital — Static Website
+# Clearview Digital — Static Website
 
 This is a fully static, multi-page website starter in deep green tones to mirror your sister company's tone.
 
@@ -20,4 +20,4 @@ This is a fully static, multi-page website starter in deep green tones to mirror
 - To wire the contact form to a backend, set `CONTACT_ENDPOINT` in `assets/js/main.js`
 - TODO: extract `header_html` and `footer_html` into includes.
 
-© 2025 ClearView Digital
+© 2025 Clearview Digital
