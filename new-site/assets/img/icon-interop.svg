@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56" role="img" aria-label="Interoperability icon">
+  <rect x="3" y="3" width="50" height="50" rx="12" fill="#F3F7F5" stroke="#D1D5DB"/>
+  <circle cx="18" cy="28" r="6" fill="#2F6E62"/>
+  <circle cx="38" cy="28" r="6" fill="#2F6E62"/>
+  <path d="M24 28 h8" stroke="#0B3D2E" stroke-width="3"/>
+</svg>

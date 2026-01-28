@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="460" viewBox="0 0 1600 460" role="img" aria-label="Section accent background">
+  <rect width="1600" height="460" fill="#FFFFFF"/>
+  <g opacity="0.08" fill="#0B3D2E">
+    <circle cx="140" cy="80" r="60"/>
+    <circle cx="320" cy="140" r="40"/>
+    <circle cx="540" cy="120" r="50"/>
+    <circle cx="800" cy="160" r="70"/>
+    <circle cx="1120" cy="140" r="48"/>
+    <circle cx="1360" cy="120" r="56"/>
+  </g>
+</svg>

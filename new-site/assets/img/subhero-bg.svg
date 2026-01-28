@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="360" viewBox="0 0 1600 360" role="img" aria-label="Soft subpage background">
+  <defs>
+    <linearGradient id="sub" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F3F7F5"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="360" fill="url(#sub)"/>
+  <g opacity="0.20" stroke="#2F6E62" stroke-width="1.2" fill="none">
+    <path d="M0 270 C 260 240, 420 300, 680 280 S 1040 250, 1240 290 S 1480 320, 1600 270"/>
+  </g>
+</svg>
